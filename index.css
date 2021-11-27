@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "OSRS";
+    src: url("./RuneScape-UF.woff")
+}
+
+* {
+    font-family: "OSRS";
+    color: #ffff00;
+}
+
+html {
+    font-size: 30px
+}
+
+.main-container {
+    background-color: #1C2030;
+    width: 100vw;
+    height: 100vh;
+}
+
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hidden {
+    display: none;
+}
+
+#wear-the-hat {
+    cursor: pointer;
+}

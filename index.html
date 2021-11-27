@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./index.css">
+    <title>Next Level Solves</title>
+</head>
+<body class="main-container">
+    <div class="centered-container">
+        <h1>Welcome to nextlevelsolves.net</h1>
+        <h3 id="wear-the-hat">Click here for the HOTTEST Chamber of Xeric Tip!</h3>
+        <div class="hidden centered-container" id="the-hat-image">
+            <h1 style="font-size: 50px">WEAR THE HAT</h1>
+            <img src="./assets/wear%20the%20hat.PNG" width="1500" />
+        </div>
+    </div>
+</body>
+</html>
+
+<script type="application/javascript">
+    const image = document.getElementById('the-hat-image');
+    const wearTheHat = document.getElementById('wear-the-hat');
+    wearTheHat.addEventListener('click', e => {
+        if(image.classList.contains('hidden')) {
+            image.classList.remove('hidden');
+        } else {
+            image.classList.add('hidden');
+        }
+    })
+</script>
