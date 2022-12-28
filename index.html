@@ -14,6 +14,11 @@
             <h1 style="font-size: 50px">WEAR THE HAT</h1>
             <img src="public/wear%20the%20hat.PNG" width="1500" />
         </div>
+        <h3 id="run-south">Geting into a little bit of hot water in the Inferno? Click for a next level solve.</h3>
+        <div class="hidden centered-container" id="run-south-image">
+            <h1 style="font-size: 50px">RUN SOUTH!!</h1>
+            <img src="public/run-south.png" width="1500" />
+        </div>
     </div>
 </body>
 </html>
@@ -26,6 +31,16 @@
             image.classList.remove('hidden');
         } else {
             image.classList.add('hidden');
+        }
+    })
+
+    const runSouthImage = document.getElementById('run-south-image');
+    const runSouth = document.getElementById('run-south');
+    runSouth.addEventListener('click', e => {
+        if(runSouthImage.classList.contains('hidden')) {
+            runSouthImage.classList.remove('hidden');
+        } else {
+            runSouthImage.classList.add('hidden');
         }
     })
 </script>
