@@ -41,7 +41,7 @@
     "lootRarityValueIntersection": false,
     "levelEnabled": true,
     "petEnabled": true,
-    "chatMessageTypes": 
+    "chatMessageTypes":
     [
         "GAME"
     ],
@@ -99,7 +99,7 @@
     "lootIncludePlayer": false,
     "combatTaskMinTier": "EASY",
     "grandExchangeIncludeCancelled": false,
-    "deathSafeExceptions": 
+    "deathSafeExceptions":
     [
         "FIGHT_CAVE",
         "INFERNO"
