@@ -94,7 +94,7 @@
     "sendClanName": true,
     "playerLookupService": "OSRS_HISCORE",
     "threadNameTemplate": "[%TYPE%] %MESSAGE%",
-    "dynamicConfigUrl": "https://dev.nallieheai.com/dink.json",
+    "dynamicConfigUrl": "https://nextlevelsolves.net/dink_config.json",
     "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
     "lootIncludePlayer": false,
     "combatTaskMinTier": "EASY",
