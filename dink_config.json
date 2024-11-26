@@ -134,7 +134,7 @@
     "gambleEnabled": false,
     "collectionWebhook": "",
     "levelWebhook": "",
-    "lootWebhook": "https://discord.com/api/webhooks/1273316118899064832/z0Yay3s7TMngfA10tajj8vW-xtgEPzH0JilaKcLMK_Pj3N0ALnL_CpTo8Uzw3lDTT1mQ",
-    "petWebhook": "https://discord.com/api/webhooks/1273316118899064832/z0Yay3s7TMngfA10tajj8vW-xtgEPzH0JilaKcLMK_Pj3N0ALnL_CpTo8Uzw3lDTT1mQ",
+    "lootWebhook": "https://discordapp.com/api/webhooks/1310719531173548115/4ZxMtG6EZcdigKt4hR3iAOw4L8bBBCm5ILg3MRERRcaG7xRGzxuExO1uA8OOPX9gNpCn",
+    "petWebhook": "https://discordapp.com/api/webhooks/1310719531173548115/4ZxMtG6EZcdigKt4hR3iAOw4L8bBBCm5ILg3MRERRcaG7xRGzxuExO1uA8OOPX9gNpCn",
     "primaryWebhook": ""
 }
