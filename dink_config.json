@@ -25,7 +25,7 @@
     "lootIcons": false,
     "lootEnabled": true,
     "petNotifMessage": "**%USERNAME%** just got a pet!",
-    "nameFilterMode": "DENY",
+    "nameFilterMode": "ALLOW",
     "lootRarityThreshold": 0,
     "maxRetries": 3,
     "speedrunPBOnly": true,
