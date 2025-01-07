@@ -134,8 +134,5 @@
     "lootRedirectPlayerKill": false,
     "gambleEnabled": false,
     "collectionWebhook": "",
-    "levelWebhook": "",
-    "lootWebhook": "https://discordapp.com/api/webhooks/1310719531173548115/4ZxMtG6EZcdigKt4hR3iAOw4L8bBBCm5ILg3MRERRcaG7xRGzxuExO1uA8OOPX9gNpCn",
-    "petWebhook": "https://discordapp.com/api/webhooks/1310719531173548115/4ZxMtG6EZcdigKt4hR3iAOw4L8bBBCm5ILg3MRERRcaG7xRGzxuExO1uA8OOPX9gNpCn",
     "primaryWebhook": ""
 }
