@@ -132,7 +132,5 @@
     "groupStorageIncludePrice": true,
     "pkSkipFriendly": false,
     "lootRedirectPlayerKill": false,
-    "gambleEnabled": false,
-    "collectionWebhook": "",
-    "primaryWebhook": ""
+    "gambleEnabled": false
 }
