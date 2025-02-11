@@ -63,7 +63,7 @@
     "collectionLogEnabled": false,
     "grandExchangeSendImage": true,
     "speedrunPBMessage": "%USERNAME% has just beat their personal best in a speedrun of %QUEST% with a time of %TIME%",
-    "screenshotHideChat": false,
+    "chatPrivacy":"HIDE_SPLIT_PM",
     "deathSendImage": true,
     "diaryMinDifficulty": "EASY",
     "lootImageMinValue": 0,
