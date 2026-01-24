@@ -60,7 +60,6 @@
     "combatTaskMessage": "%USERNAME% has completed %TIER% combat task: %TASK%",
     "ignoreSeasonalWorlds": true,
     "seasonalPolicy":"REJECT",
-    "collectionLogEnabled": false,
     "grandExchangeSendImage": true,
     "speedrunPBMessage": "%USERNAME% has just beat their personal best in a speedrun of %QUEST% with a time of %TIME%",
     "chatPrivacy":"HIDE_SPLIT_PM",
@@ -138,6 +137,7 @@
         "NORMAL"
     ]
 }
+
 
 
 
