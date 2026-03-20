@@ -24,7 +24,7 @@
     "pkIncludeLocation": true,
     "lootIcons": false,
     "lootEnabled": true,
-    "petNotifMessage": "**%USERNAME%** just got a pet!",
+    "petNotifMessage": "**%USERNAME%** just got a pet! **%PET%**",
     "nameFilterMode": "ALLOW",
     "lootRarityThreshold": 0,
     "maxRetries": 3,
