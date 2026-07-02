@@ -1,6 +1,5 @@
 {
     "killCountInterval": 50,
-    "combatTaskEnabled": false,
     "gambleRareNotifMessage": "%USERNAME% has received rare loot at gamble count %COUNT%: %LOOT%",
     "speedrunEnabled": false,
     "questEnabled": false,
