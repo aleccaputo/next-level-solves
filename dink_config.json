@@ -131,7 +131,7 @@
     "pkSkipFriendly": false,
     "lootRedirectPlayerKill": false,
     "gambleEnabled": false,
-    "lootSourceDenylist": "Bird nest\nLoot Chest\n",
+    "lootSourceDenylist": "Bird nest\nLoot Chest\nTarnished amulet\nTarnished 2h sword\nTarnished battleaxe\nTarnished halberd\nTarnished longsword\nTarnished necklace\nTarnished bracelet\nTarnished ring\nTarnished spear",
     "deniedAccountTypes": 
     [
         "NORMAL"
